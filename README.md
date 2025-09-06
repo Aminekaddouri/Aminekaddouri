@@ -77,8 +77,7 @@ I'm currently seeking a **web development internship** to grow as a professional
 Open to remote or on-site roles in Morocco and internationally.
 
 📧 **Email**: [kaddouriaminee@gmail.com](mailto:kaddouriaminee@gmail.com)  
-🔗 **Portfolio**: [coming soon] 
-📍 **Location**: Morocco
+🔗 **Portfolio**: [coming soon] | 🌍 **Location**: Morocco
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Building+full-stack+apps+%F0%9F%92%BB;Mastering+the+MERN+stack+%F0%9F%94%A5;From+1337+to+a+professional+engineer+%F0%9F%9A%80" alt="Typing SVG" />
