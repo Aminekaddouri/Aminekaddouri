@@ -57,6 +57,9 @@ A fully functional **HTTP/1.1 server** built from scratch in **C++98**, with non
 A full-stack **web gaming platform** with real-time Pong, tournament system, and live chat. Built with **TypeScript, Node.js, Fastify, Docker, and microservices**, featuring **SSR, accessibility, and multi-language support**.  
 🔧 *Skills: Full-Stack, Microservices, DevOps, Accessibility*
 
+#### 🔹 [1337-curriculum](https://github.com/Aminekaddouri/1337-curriculum)  
+My journey through the 1337 core curriculum — from C to systems programming.
+
 #### 🔹 [booking-app](https://github.com/Aminekaddouri/booking-app)  
 A **MERN stack** full-stack app for booking rooms/services with **JWT authentication**, CRUD operations, and responsive UI.  
 🔧 *Skills: React, Node.js, MongoDB, REST API*
