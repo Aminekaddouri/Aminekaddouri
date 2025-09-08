@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
 ---
@@ -49,13 +50,17 @@
 
 ### 🏆 &nbsp;Featured Projects
 
-#### 🔹 [webserv](https://github.com/Aminekaddouri/Low-Level-HTTP-Server)  
+#### 🔹 [Low-Level-HTTP-Server](https://github.com/Aminekaddouri/Low-Level-HTTP-Server)  
 A fully functional **HTTP/1.1 server** built from scratch in **C++98**, with non-blocking I/O (`epoll`), NGINX-style configuration, CGI support, and multi-port listening.  
 🔧 *Skills: C++, Sockets, HTTP Protocol, System Programming*
 
 #### 🔹 [ft_transcendence](https://github.com/Aminekaddouri/ft_transcendence)  
 A full-stack **web gaming platform** with real-time Pong, tournament system, and live chat. Built with **TypeScript, Node.js, Fastify, Docker, and microservices**, featuring **SSR, accessibility, and multi-language support**.  
 🔧 *Skills: Full-Stack, Microservices, DevOps, Accessibility*
+
+#### 🔹 [containerized-infrastructure](https://github.com/Aminekaddouri/containerized-infrastructure)
+A **fully containerized web infrastructure** using **Docker Compose**, featuring **Nginx (reverse proxy)**, **WordPress**, **MySQL**, **Adminer**, **Redis**, **FTP**, and a **static resume site**. All services run in isolated, persistent containers with secure environment management.
+🔧 *Skills: Docker, DevOps, Nginx, WordPress, System Administration*
 
 #### 🔹 [1337-curriculum](https://github.com/Aminekaddouri/1337-curriculum)  
 My journey through the 1337 core curriculum — from C to systems programming.
