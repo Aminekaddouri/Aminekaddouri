@@ -49,7 +49,7 @@
 
 ### 🏆 &nbsp;Featured Projects
 
-#### 🔹 [webserv](https://github.com/Aminekaddouri/webserv)  
+#### 🔹 [webserv](https://github.com/Aminekaddouri/Low-Level-HTTP-Server)  
 A fully functional **HTTP/1.1 server** built from scratch in **C++98**, with non-blocking I/O (`epoll`), NGINX-style configuration, CGI support, and multi-port listening.  
 🔧 *Skills: C++, Sockets, HTTP Protocol, System Programming*
 
